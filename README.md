@@ -1,8 +1,8 @@
 # Jenkins CI/CD Pipeline
 
-## Project Overview
+## Task Overview
 
-This project demonstrates how a Jenkins CI/CD pipeline automates the process of building, testing, and deploying an application.
+This task demonstrates how a Jenkins CI/CD pipeline automates the process of building, testing, and deploying an application.
 
 Instead of manually testing and deploying code, Jenkins performs these tasks automatically whenever changes are pushed to GitHub.
 
