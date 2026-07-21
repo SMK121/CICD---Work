@@ -88,7 +88,7 @@ Jenkins can:
 
 # Jenkins CI/CD Pipeline Diagram
 
-(https://github.com/user-attachments/assets/f5cfb68b-4e57-483a-9d54-14a3646c58f9)
+![Jenkins CI/CD Pipeline Diagram](https://github.com/user-attachments/assets/958e1b40-8754-416a-a985-499887b35dad)
 
 ---
 
